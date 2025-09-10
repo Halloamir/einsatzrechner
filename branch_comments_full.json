@@ -1,0 +1,507 @@
+[
+    {
+        "name": "01.5 Gemischte Landwirtschaft",
+        "gruppe": "II",
+        "zeit": 1.5
+    },
+    {
+        "name": "02 Forstwirtschaft und Holzeinschlag",
+        "gruppe": "I",
+        "zeit": 2.5
+    },
+    {
+        "name": "05 Kohlenbergbau",
+        "gruppe": "I",
+        "zeit": 2.5
+    },
+    {
+        "name": "06 Gewinnung von Erdöl und Erdgas",
+        "gruppe": "II",
+        "zeit": 1.5
+    },
+    {
+        "name": "07 Erzbergbau",
+        "gruppe": "I",
+        "zeit": 2.5
+    },
+    {
+        "name": "08 Gewinnung von Steinen und Erden, sonstiger Bergbau",
+        "gruppe": "I",
+        "zeit": 2.5
+    },
+    {
+        "name": "09 Erbringung von Dienstleistungen für den Bergbau und für die Gewinnung von Steinen und Erden",
+        "gruppe": "II",
+        "zeit": 1.5
+    },
+    {
+        "name": "10 Herstellung von Nahrungs- und Futtermitteln",
+        "gruppe": "II",
+        "zeit": 1.5
+    },
+    {
+        "name": "Getränkeherstellung",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Tabakverarbeitung",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Herstellung von Textilien",
+        "gruppe": "II",
+        "zeit": 1.5
+    },
+    {
+        "name": "Herstellung von Bekleidung",
+        "gruppe": "II",
+        "zeit": 1.5
+    },
+    {
+        "name": "Herstellung von Leder, Lederwaren und Schuhen",
+        "gruppe": "II",
+        "zeit": 1.5
+    },
+    {
+        "name": "Herstellung von Holz-, Flecht-, Korb- und Korkwaren (ohne Möbel)",
+        "gruppe": "II",
+        "zeit": 1.5
+    },
+    {
+        "name": "Herstellung von Papier, Pappe und Waren daraus",
+        "gruppe": "II",
+        "zeit": 1.5
+    },
+    {
+        "name": "Herstellung von Druckerzeugnissen; Vervielfältigung",
+        "gruppe": "II",
+        "zeit": 1.5
+    },
+    {
+        "name": "Kokerei und Mineralölverarbeitung",
+        "gruppe": "I",
+        "zeit": 2.5
+    },
+    {
+        "name": "Herstellung von chemischen Erzeugnissen",
+        "gruppe": "II",
+        "zeit": 1.5
+    },
+    {
+        "name": "Herstellung von pharmazeutischen Erzeugnissen",
+        "gruppe": "II",
+        "zeit": 1.5
+    },
+    {
+        "name": "Herstellung von Gummi- und Kunststoffwaren",
+        "gruppe": "II",
+        "zeit": 1.5
+    },
+    {
+        "name": "Herstellung von Glas und Glaswaren, Keramik, Verarbeitung von Steinen und Erden",
+        "gruppe": "II",
+        "zeit": 1.5
+    },
+    {
+        "name": "Metallerzeugung und -bearbeitung",
+        "gruppe": "I",
+        "zeit": 2.5
+    },
+    {
+        "name": "Herstellung von Metallerzeugnissen",
+        "gruppe": "II",
+        "zeit": 1.5
+    },
+    {
+        "name": "Herstellung von Datenverarbeitungsgeräten, elektronischen und optischen Erzeugnissen",
+        "gruppe": "II",
+        "zeit": 1.5
+    },
+    {
+        "name": "Herstellung von elektrischen Ausrüstungen",
+        "gruppe": "II",
+        "zeit": 1.5
+    },
+    {
+        "name": "Maschinenbau",
+        "gruppe": "II",
+        "zeit": 1.5
+    },
+    {
+        "name": "Herstellung von Kraftwagen und Kraftwagenteilen",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Sonstiger Fahrzeugbau",
+        "gruppe": "I",
+        "zeit": 2.5
+    },
+    {
+        "name": "Herstellung von Möbeln",
+        "gruppe": "II",
+        "zeit": 1.5
+    },
+    {
+        "name": "Herstellung von sonstigen Waren",
+        "gruppe": "II",
+        "zeit": 1.5
+    },
+    {
+        "name": "Reparatur und Installation",
+        "gruppe": "II",
+        "zeit": 1.5
+    },
+    {
+        "name": "Energieversorgung",
+        "gruppe": "II",
+        "zeit": 1.5
+    },
+    {
+        "name": "Wasserversorgung, Abwasser- und Abfallentsorgung, Umwelt",
+        "gruppe": "II",
+        "zeit": 1.5
+    },
+    {
+        "name": "Baugewerbe",
+        "gruppe": "I",
+        "zeit": 2.5
+    },
+    {
+        "name": "Handel; Instandhaltung und Reparatur von Kraftfahrzeugen",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Landverkehr und Transport in Rohrfernleitungen",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Schifffahrt",
+        "gruppe": "II",
+        "zeit": 1.5
+    },
+    {
+        "name": "Luftfahrt",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Lagerei sowie Erbringung von sonstigen Dienstleistungen für den Verkehr",
+        "gruppe": "II",
+        "zeit": 1.5
+    },
+    {
+        "name": "Post-, Kurier- und Expressdienste",
+        "gruppe": "II",
+        "zeit": 1.5
+    },
+    {
+        "name": "Beherbergung",
+        "gruppe": "II",
+        "zeit": 1.5
+    },
+    {
+        "name": "Gastronomie",
+        "gruppe": "II",
+        "zeit": 1.5
+    },
+    {
+        "name": "Verlagswesen",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Herstellung, Verleih und Vertrieb von Filmen und Fernsehprogrammen; Kinos; Tonstudios und Verlegen von Musik",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Rundfunkveranstalter",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Telekommunikation",
+        "gruppe": "II",
+        "zeit": 1.5
+    },
+    {
+        "name": "Erbringung von Dienstleistungen der Informationstechnologie",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Informationsdienstleistungen",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Rechts- und Steuerberatung, Wirtschaftsprüfung",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Verwaltung und Führung von Unternehmen und Betrieben; Unternehmensberatung",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Architektur- und Ingenieurbüros; technische, physikalische und chemische Untersuchung",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Forschung und Entwicklung",
+        "gruppe": "II",
+        "zeit": 1.5
+    },
+    {
+        "name": "Werbung und Marktforschung",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Sonstige freiberufliche, wissenschaftliche und technische Tätigkeiten",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Veterinärwesen",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Vermietung von beweglichen Sachen",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Vermittlung und Überlassung von Arbeitskräften",
+        "gruppe": "II",
+        "zeit": 1.5
+    },
+    {
+        "name": "Reisebüros, Reiseveranstalter und Erbringung sonstiger Reservierungsdienstleistungen",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Wach- und Sicherheitsdienste sowie Detekteien",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Gebäudebetreuung; Garten- und Landschaftsbau",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Erbringung von wirtschaftlichen Dienstleistungen für Unternehmen und Privatpersonen a. n. g.",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Öffentliche Verwaltung, Verteidigung; Sozialversicherung",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Erziehung und Unterricht",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Gesundheits- und Sozialwesen",
+        "gruppe": "II",
+        "zeit": 1.5
+    },
+    {
+        "name": "Kunst, Unterhaltung und Erholung",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Erbringung von sonstigen Dienstleistungen",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Gasversorgung (keine Zeitangabe, ggf. ergänzen)",
+        "gruppe": "",
+        "zeit": ""
+    },
+    {
+        "name": "Vorbereitende Baustellenarbeiten, Bauinstallation und sonstiges Ausbaugewerbe",
+        "gruppe": "I",
+        "zeit": 2.5
+    },
+    {
+        "name": "Großhandel",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Sonstiger Großhandel",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Einzelhandel",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Schifffahrt",
+        "gruppe": "II",
+        "zeit": 1.5
+    },
+    {
+        "name": "Luftfahrt",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Lagerei sowie Erbringung von sonstigen Dienstleistungen für den Verkehr",
+        "gruppe": "II",
+        "zeit": 1.5
+    },
+    {
+        "name": "Post-, Kurier- und Expressdienste",
+        "gruppe": "II",
+        "zeit": 1.5
+    },
+    {
+        "name": "Beherbergung",
+        "gruppe": "II",
+        "zeit": 1.5
+    },
+    {
+        "name": "Gastronomie",
+        "gruppe": "II",
+        "zeit": 1.5
+    },
+    {
+        "name": "Verlagswesen",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Herstellung, Verleih und Vertrieb von Filmen und Fernsehprogrammen; Kinos; Tonstudios und Verlegen von Musik",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Rundfunkveranstalter",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Telekommunikation",
+        "gruppe": "II",
+        "zeit": 1.5
+    },
+    {
+        "name": "Erbringung von Dienstleistungen der Informationstechnologie",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Informationsdienstleistungen",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Rechts- und Steuerberatung, Wirtschaftsprüfung",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Verwaltung und Führung von Unternehmen und Betrieben; Unternehmensberatung",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Architektur- und Ingenieurbüros; technische, physikalische und chemische Untersuchung",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Forschung und Entwicklung",
+        "gruppe": "II",
+        "zeit": 1.5
+    },
+    {
+        "name": "Werbung und Marktforschung",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Sonstige freiberufliche, wissenschaftliche und technische Tätigkeiten",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Veterinärwesen",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Vermietung von beweglichen Sachen",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Vermittlung und Überlassung von Arbeitskräften",
+        "gruppe": "II",
+        "zeit": 1.5
+    },
+    {
+        "name": "Reisebüros, Reiseveranstalter und Erbringung sonstiger Reservierungsdienstleistungen",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Wach- und Sicherheitsdienste sowie Detekteien",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Gebäudebetreuung; Garten- und Landschaftsbau",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Erbringung von wirtschaftlichen Dienstleistungen für Unternehmen und Privatpersonen a. n. g.",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Öffentliche Verwaltung, Verteidigung; Sozialversicherung",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Erziehung und Unterricht",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Gesundheits- und Sozialwesen",
+        "gruppe": "II",
+        "zeit": 1.5
+    },
+    {
+        "name": "Kunst, Unterhaltung und Erholung",
+        "gruppe": "III",
+        "zeit": 0.5
+    },
+    {
+        "name": "Erbringung von sonstigen Dienstleistungen",
+        "gruppe": "III",
+        "zeit": 0.5
+    }
+]
